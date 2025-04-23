@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Reaction",
+    "score": 80,
+    "textColor": "text-primary-red",
+    "bgColor": "bg-primary-bg-red"
+  },
+  {
+    "category": "Memory",
+    "score": 92,
+    "textColor": "text-primary-yellow",
+    "bgColor": "bg-primary-bg-yellow"
+  },
+  {
+    "category": "Verbal",
+    "score": 61,
+    "textColor": "text-primary-green-teal",
+    "bgColor": "bg-primary-bg-green-teal"
+  },
+  {
+    "category": "Visual",
+    "score": 72,
+    "textColor": "text-primary-cobalt-blue",
+    "bgColor": "bg-primary-bg-cobalt-blue"
+  }
+]
